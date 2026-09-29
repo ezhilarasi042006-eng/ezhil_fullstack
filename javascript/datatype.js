@@ -1,0 +1,11 @@
+x = 5;
+x = 10;
+console.log(x);
+let y = 5;
+y = 10;
+console.log(y);
+const z = 5;
+console.log(z);
+var a = 5;
+a = 10;
+console.log(a);
